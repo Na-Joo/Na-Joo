@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=9FF&height=100&section=header&text=Na-Joo's%20github&fontSize=45&fontAlign=70)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNa-Joo&count_bg=%23B3F2FF&title_bg=%234C80E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--
 **Na-Joo/Na-Joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
